@@ -9,7 +9,7 @@ npm install memcached-q --save
 ```
 
 ## Usage
-```shell
+```javascript
 var MemcacheQ = require('memcached-q');
 
 var cache = new MemcacheQ(serverLocations, options);
