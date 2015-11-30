@@ -1,6 +1,6 @@
 {
   "name": "memcached-q",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wrapper for the npm \"memcached\" package which converts the asynchronous methods to a promise-based API, using npm \"q\" package's promise implementation.",
   "main": "index.js",
   "repository": {
